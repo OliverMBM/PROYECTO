@@ -795,7 +795,7 @@ table, td, th {
 	#header
 	{
 		position: relative;
-		background: url(../images/fondo1.jpg) no-repeat bottom center;
+		background: url(../images/maniaca1.jpg) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
@@ -1010,7 +1010,7 @@ table, td, th {
 	{
 		position: relative;
 		text-align: center;
-		background: url(../images/fondo1.jpg) no-repeat center center;
+		background: url(../images/maniaca1.jpg) no-repeat center center;
 		background-attachment: fixed;
 		background-size: cover;
 	}

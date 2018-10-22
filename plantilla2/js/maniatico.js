@@ -7,6 +7,12 @@ window.onload = function(){
        add++;
    }
 };
+
+with(document){
+        write('<input type="button" value="Log Out" id="salida"  >');
+        
+
+    }
     
     function add(){
         
