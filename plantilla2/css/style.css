@@ -26,6 +26,10 @@ table, td, th {
 	margin-left: 26px;
 }
 
+#buscador{
+
+}
+
 
 
 @charset 'UTF-8';
@@ -88,7 +92,7 @@ table, td, th {
 	
 	a:hover
 	{
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 	sub
@@ -852,6 +856,45 @@ table, td, th {
 	#nav
 	{
 	}
+
+		#buscador
+		{
+			width: 100%;
+
+		}
+
+		#lstprod
+		{
+			width: 166px;
+			max-width: 1000px;
+			margin: auto;
+			background: #fff;
+			padding: 0 10px;
+			padding-bottom: 5px;
+			/*display: none;*/
+			margin-left: 70%;
+			border: none;
+			
+
+			border-collapse: none;
+			
+   			padding:9px;
+    		
+    		margin-top: 0px;
+		}
+
+		#lstprod a{
+
+		}
+
+		#divsearch{
+			width: 90%;
+			max-width: 1000px;
+			margin: auto;
+			margin-left: 70%;
+
+
+		}
 
 		#nav-wrapper
 		{
